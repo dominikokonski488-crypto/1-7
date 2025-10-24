@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="pl=PL">
+      <html>
+        <head>
+                 <title> dominik okonski </title>
+            </head>
+         <body>
+       Dominik okoński  
+         <body background="gdansk.jpg">treść strony></body>
+
+<p align="right"> <font color="blue" size="1" face="Arial"> dominik</font> </p> <br>
+<p align="right"> <font color="purple" size="2" face="Arial">dominik </font> </p> <br>
+<p align="right"> <font color="yelow" size="3" face="Arial"> dominik  </font> </p> <br>
+<p align="right"> <font color="red" size="4" face="Arial"> Dominik </font> </p> <br>  
+<p align="right"> <font color="pink" size="5" face="Arial"> Dominik  </font> </p> <br>
+<p align="right"> <font color="gray" size="6" face="Arial"> Dominik  </font> </p> <br>
+<p align="right"> <font color="blue" size="7" face="Arial"> Dominik  </font> </p> <br>
+
+<h1>  Okonski </h1><br>
+<h2>  Okonski </h1><br>
+<h3> Okonski </h1><br>
+<h4> Okonski </h1><br>
+<h5>  Okonski </h1><br>
+<h6>  Okonski </h1><br>
+:) uśmiech
+;) uśmiech z przymrużeniem oka
+:( smutek, zmartwienie
+:C duży smutek
+;( lub :'( płacz
+:P pokazanie języka
+:D szeroki uśmiech
+
+<p align="right"> <font color="blue" size="4" face="Arial"> :) </font> </p> <br>
+<p align="right"> <font color="purple" size="1" face="Courier New"> ;) </font> </p> <br>
+<p align="right"> <font color="brown" size="5" face="'Times New Roman"> :( </font> </p> <br>
+<p align="right"> <font color="black" size="3" face="Verdana"> :C </font> </p> <br>
+<p align="right"> <font color="red" size="2" face="Courier New"> ;( </font> </p> <br>
+<p align="right"> <font color="gray" size="7" face="'Times New Roman"> :P </font> </p> <br>
+<p align="right"> <font color="cyan" size="6" face="Arial"> :D </font> </p> <br>
+
+<b>
+<p align="left"> <font color="cyan" size="4" face="Arial"> 87-100 Lipno Podgórna 1/13 </font> </p> <br>
+<u></u>
+<p align="right"> <font color="orange" size="6" face="Courier New"> charlie chaplin </font> </p> <br>
+<b>
+<p align="right"> <font color="green" size="5" face="Arial"> Forest the People</font> </p> <br>
+<u></u>
+<p align="right"> <font color="red" size="7" face="Verdana"> 3 lutego 1967 roku </font> </p> <br>
+
+
+<H3 ALIGN=center> Suchary </H5>
+
+<fieldset>
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red><legend>Zart o grubym</legend>
+ Jaki atut ma gruby człowiek? <br />                
+<HR SIZE=2 WIDTH=50% ALIGN=LEFT COLOR=green> </fieldset>
+-Przewage. <br />
+
+<H2 ALIGN=center> Suchary </H3>
+
+<fieldset> <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=yellow>
+<legend>zart o koniu</legend>
+Dlaczego konie nie grają w szachy?  <br />                    
+<HR SIZE=5 WIDTH=50% ALIGN=LEFT COLOR=blue> </fieldset>
+- Bo nie lubią być bite<br />
+ 
+<H1 ALIGN=center> Suchary </H4>
+
+<fieldset> <HR SIZE=7 WIDTH=50% ALIGN=LEFT COLOR=black>
+<legend>Zart o niemcach</legend>
+Co robi egocentryczny Niemiec?  <br />                  
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> </fieldset>
+- Przytakuje<br/>
+
+<br>
+ <br>
+  <br>
+   <br>
+
+Nazwisko ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imie ucznia <br>
+<br>
+Okonski &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dominik
+
+<body bgcolor=#6B6B6B>treść strony></body>
+<br><br><br>
+
+<h1>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+<h2>Ty zaproponuj swoje, związane z informatyką</h2>
+
+<h3>Wyliczenia z różnymi znakami wypunktowania:</h3>
+
+<ul style="list-style-type: square;">
+  <li>Sprzęt komputerowy (monitor, klawiatura, mysz)</li>
+  <li>Urządzenia zewnętrzne (drukarka, skaner)</li>
+  <li>Pamięci masowe (dysk HDD, SSD, pendrive)</li>
+</ul>
+
+<ul style="list-style-type: circle;">
+  <li>Systemy operacyjne: Windows, Linux, macOS</li>
+  <li>Programy biurowe: Word, Excel, PowerPoint</li>
+  <li>Przeglądarki internetowe: Chrome, Firefox, Edge</li>
+</ul>
+
+<ul style="list-style-type: disc;">
+  <li>Języki programowania: Python, C++, JavaScript</li>
+  <li>Bazy danych: MySQL, SQLite, PostgreSQL</li>
+  <li>Strony WWW: HTML, CSS, JavaScript</li>
+</ul>
+
+<br><br><br>
+
+<h2>poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+<h2>Ty zaproponuj swoje, związane z informatyką</h2>
+
+<ol type="1">
+  <li>Włączenie komputera</li>
+  <li>Uruchomienie przeglądarki</li>
+  <li>Wyszukanie informacji o HTML</li>
+</ol>
+
+<ol type="A">
+  <li>Algorytmy i struktury danych</li>
+  <li>Bazy danych i SQL</li>
+  <li>Sieci komputerowe</li>
+</ol>
+
+<ol type="i">
+  <li>i. Tworzenie strony w HTML</li>
+  <li>ii. Formatowanie tekstu w CSS</li>
+  <li>iii. Dodawanie interakcji w JavaScript</li>
+</ol>
+
+<br><br><br>
+
+<h2>poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+<h2>Ty zaproponuj swoje, związane z informatyką</h2>
+
+<!-- Numerowanie 1 – Nagłówki HTML -->
+<ol type="1" style="color:red;">
+  <li>Nagłówki w treści strony WWW.</li>
+  <li>&lt;h1&gt; będzie największym nagłówkiem.</li>
+  <li>&lt;h2&gt; – &lt;h5&gt; będą coraz mniejsze.</li>
+  <li>&lt;h6&gt; będzie najmniejszym nagłówkiem.</li>
+</ol>
+
+<!-- Numerowanie 2 – Funkcje font -->
+<ol type="a" style="color:red;">
+  <li>Możliwości funkcji font:</li>
+  <li>&lt;font size&gt; – wielkość czcionki</li>
+  <li>&lt;font color&gt; – kolor czcionki</li>
+  <li>&lt;font face&gt; – rodzaj czcionki</li>
+</ol>
+
+<!-- Numerowanie 3 – Kolory w HTML -->
+<ol type="I" style="color:red;">
+  <li>Najprostsze rodzaje kolorów do użycia w funkcji font:</li>
+  <li>Nazwa: red – czerwony, green – zielony, blue – niebieski</li>
+  <li>RGB: rgb(255,0,0) – czerwony, rgb(0,255,0) – zielony, rgb(0,0,255) – niebieski</li>
+  <li>Hexadecymalny: #FF0000 – czerwony, #00FF00 – zielony, #0000FF – niebieski</li>
+</ol>
+
+<br><br><br>
+
+<h3>poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+<h3>Ty zaproponuj swoje, związane z informatyką</h3>
+
+<div style="background-color: #d9d9d9; border: 1px solid black; padding: 10px;">
+
+<ol type="I" style="color: cyan;">
+  <li>Popularne interfejsy urządzeń peryferyjnych do komputera
+    <ol type="A">
+      <li>Interfejsy do przesyłu obrazu
+        <ul>
+          <li><b>HDMI</b>
+            <ul>
+              <li>Type A – Standard</li>
+              <li>Type B – Dual-Link</li>
+              <li>Type C – Mini</li>
+              <li>Type D – Micro</li>
+              <li>Type E – Z wąsem blokującym</li>
+            </ul>
+          </li>
+          <li><b>DVI</b>
+            <ul>
+              <li>DVI-I – dane cyfrowe i analogowe</li>
+              <li>DVI-D – dane cyfrowe</li>
+              <li>DVI-A – dane analogowe</li>
+            </ul>
+          </li>
+          <li><b>D-SUB</b>
+            <ul>
+              <li>DE-9 – Standard</li>
+              <li>DE-15 – Złącze VGA / XGA</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+
+      <li>Interfejsy do przesyłu audio
+        <ul>
+          <li>Jack 6.3 mm</li>
+          <li>Jack 3.5 mm (minijack)</li>
+          <li>Jack 2.5 mm (microjack)</li>
+        </ul>
+      </li>
+
+      <li>Interfejsy do przesyłu danych
+        <ul>
+          <li><b>USB</b>
+            <ul>
+              <li>Type A (USB 1.0, 2.0)</li>
+              <li>Type B (USB 1.0, 2.0)</li>
+              <li>Mini A, Mini B (USB 2.0)</li>
+              <li>Micro A, Micro B (USB 2.0)</li>
+              <li>Type C (USB 3.0+)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+</ol>
+</div>
+
+  <hr>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+
+    <img src="grafika1.gif" alt="grafika1-Dominik Okonski" style="width: 100px; height: 100px; border: 1px solid black; margin: 10px;">
+
+    <p>Dlaczego informatycy lubią pizzę? Bo ma dużo bajtów!</p>
+
+  </div>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+
+    <img src="grafika2.gif" alt="grafika2-Dominik Okonski" style="width: 100px; height: 100px; border: 1px solid black; margin: 10px;">
+
+    <p>Tutaj umieść dowcip 2.</p>
+
+  </div>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+
+    <img src="grafika3.gif" alt="grafika3-Dominik Okonski" style="width: 100px; height: 100px; border: 1px solid black; margin: 10px;">
+
+    <p>Tutaj umieść dowcip 3.</p>
+
+  </div>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+
+    <img src="grafika4.gif" alt="grafika4-Dominik Okonski" style="width: 100px; height: 100px; border: 1px solid black; margin: 10px;">
+
+    <p>Tutaj umieść dowcip 4.</p>
+
+  </div>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+
+    <img src="grafika5.gif" alt="grafika5-Dominik Okonski" style="width: 100px; height: 100px; border: 1px solid black; margin: 10px;">
+
+    <p>Tutaj umieść dowcip 5.</p>
+
+  </div>
+
+  <hr>
+
+  <h2>Linki do innych stron:</h2>
+
+  <ul>
+
+    <li><a href="Dominiko.html">Przejdź do strony 1</a></li>
+
+    <li><a href="Domino.html">Przejdź do strony 2</a></li>
+
+    <li><a href="Dominik.html">Przejdź do strony 3</a></li>
+
+  </ul>
+ </html>
