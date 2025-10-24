@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Strona 3</title>
+
+</head>
+
+<body>
+
+  <h1>To jest strona 3</h1>
+
+  <p>Treść strony 3.</p>
+
+  <a href="Domin.html">Powrót do strony głównej</a>
+
+</body>
+
+</html>
